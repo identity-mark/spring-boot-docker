@@ -277,3 +277,15 @@ The following guides may also be helpful:
 * https://spring.io/guides/gs/spring-boot/[Building an Application with Spring Boot]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
+
+
+
+
+[DEBUG]   (f) tag = latest
+[DEBUG]   (f) useProxy = true
+[DEBUG] -- end configuration --
+[DEBUG] Using configfile: /Users/markdenmar/.docker/config.json
+[DEBUG] /Users/markdenmar/.docker/ca.pem, /Users/markdenmar/.docker/key.pem or /Users/markdenmar/.docker/cert.pem does not exist, not using SSL
+[WARNING] Dockerfile already exists
+[INFO] Image will be built as [your_domain_name]/gs-spring-boot-docker:latest
+[INFO]
